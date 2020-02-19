@@ -1,4 +1,4 @@
-#97 Things a Software Architect should know
+# 97 Things a Software Architect should know
  - Don’t put your resume ahead of the requirements
  - Simplify essential complexity; Diminish Accidental complexity
  - Chances are, your biggest problem isn’t technical
