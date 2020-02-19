@@ -1,0 +1,98 @@
+#97 Things a Software Architect should know
+ - Don’t put your resume ahead of the requirements
+ - Simplify essential complexity; Diminish Accidental complexity
+ - Chances are, your biggest problem isn’t technical
+ - Communication is King; Clarity and Leadership, its humble servants
+ - Application architecture determines application performance
+ - Seek the value in requested capabilities
+ - Stand up
+ - Everything will ultimately fail
+ - You are negotiating more often than you think
+ - Quantify
+ - One line of working code is worth 500 of specification
+ - There is no one-size-fits-all solution
+ - It is never too early to think about performance
+ - Architecting is about balancing
+ - Commit-and-run is a crime
+ - There can be more than one
+ - Business drives
+ - Simplicity before generality, use before reuse
+ - Architects must be hands on
+ - Continuously integrate
+ - Avoid scheduling failures
+ - Architectural tradeoffs
+ - Database as a fortress
+ - Use uncertainty as a driver
+ - Warning: Problems in mirror may be larger than they appear
+ - Reuse is about people and education, not just architecture
+ - There is no ‘I’ in the architecture
+ - Get the 1000-foot view
+ - Try before choosing
+ - Understand the business domain
+ - Programming is an act of design
+ - Give developers autonomy
+ - Time changes everything
+ - “software architect” has only lowercase a’s. Deal with it
+ - scope is the enemy of success
+ - value stewardship over showmanship
+ - software architecture has ethical consequences
+ - skyscrapers aren’t scalable
+ - heterogeneity wind
+ - It’s all about performance
+ - Engineer in the white spaces
+ - Talk the talk
+ - Context is king
+ - Dwarves, elves, wizards, and Kings
+ - Learn from architects of buildings
+ - Fight repetition
+ - Welcome tot the real world
+ - Don’t control, but observe
+ - Janus the architect
+ - Architect’s focus is on the boundaries and interfaces
+ - Empower developers
+ - Record your rationale
+ - Challenge assumptions – especially your own
+ - Share your knowledge and experiences
+ - Pattern pathology
+ - Don’t stretch the architecture metaphors
+ - Focus on application support and maintenance 
+ - Prepare to pick two
+ - Prefer principles, Axioms and analogies to opinion and taste
+ - Start with a walking skeleton 
+ - Its is all about the data
+ - Make sure the simple stuff is simple
+ - Before anything, an architect is a developer
+ - The ROI Variable
+ - Your system is legacy, design for it
+ - If there is only one solution, get a second opinion
+ - Understand the impact of change
+ - You have to understand hardware, too
+ - Shortcuts now are paid back with interest later
+ - ‘Perfect’ is the enemy of “good enough”
+ - Avoid “Good Ideas”
+ - Great content creates great systems
+ - The business versus the angry architect
+ - Stretch key dimensions to see what breaks
+ - If you design it, you should be able to code it
+ - A rose by any other name wile d up as a cabbage
+ - Stable problems get high-quality solutions
+ - It takes diligence
+ - Take responsibility for your decisions
+ - Don’t be clever
+ - Choose your weapons carefully, relinquish them reluctantly
+ - Your customer is not your customer
+ - It will never look like that
+ - Choose frameworks that play well with others
+ - Make a strong business case
+ - Control the data, not just the code
+ - Pay down your technical debt
+ -  Don’t be a problem solver
+ - build systems to be Zuhanden
+ - find and retain passionate problem solvers
+ - software doesn’t really exist
+ - learn a new language
+ - you can’t future-proof solutions
+ - the user acceptance problem
+ - the importance of consommé
+ - for the end user, the interface is the system
+ - great software is not built, it is grown
